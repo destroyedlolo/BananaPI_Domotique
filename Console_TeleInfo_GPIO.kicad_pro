@@ -228,7 +228,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "BananaPI"
+    ]
   },
   "meta": {
     "filename": "Console_TeleInfo_GPIO.kicad_pro",
@@ -377,7 +379,7 @@
   "sheets": [
     [
       "c62aa3b2-ec52-401a-b142-ff44b44b8605",
-      ""
+      "Racine"
     ]
   ],
   "text_variables": {}
