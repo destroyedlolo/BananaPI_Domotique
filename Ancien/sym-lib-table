@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name 1wire)(type Legacy)(uri /home/laurent/Projets/KiCad/lib/1wire.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "1wire")(type "Legacy")(uri "/home/laurent/Projets/KiCad/lib/1wire.lib")(options "")(descr ""))
+  (lib (name "bPI-w1-rescue")(type "KiCad")(uri "${KIPRJMOD}/bPI-w1-rescue.kicad_sym")(options "")(descr ""))
 )
